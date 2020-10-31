@@ -1,2 +1,5 @@
-# Python_Snake_Game
+# Python Snake Game
 Snake game in python with pygame
+## Development
+- Developer
+  - Sakib
